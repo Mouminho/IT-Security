@@ -1,0 +1,2 @@
+Main-Class: l_read.LogRead
+Class-Path: dependencies/

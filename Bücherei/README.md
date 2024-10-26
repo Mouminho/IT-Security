@@ -21,7 +21,7 @@ This project simulates a library system (Bücherei) with a focus on managing use
 
 1. Run the script:
    ```bash
-   python <script-name>.py
+   python bücherei.py
    ```
 
 2. The script will connect to your MongoDB instance, search for users without a `user_id`, and assign each a unique ID. It will print out confirmation messages for each user updated.
